@@ -1,0 +1,9 @@
+1, 完整證明
+2, 一樣or不一樣，為甚麼? 
+3, 處理前與處理後的圖須附於pdf，討論不同之處，並將code附於sound.py供驗證。
+4, 討論移除低音頻後的效果，討論移除高音頻後的效果，並將code附於sound.py供驗證。
+5, 請在pdf說明算法，並附名為compete.py的檔案於繳交壓縮檔中，compete.py最後三行code應為對score的呼叫，呼叫對象可參考val.zip中音檔亦可自行尋找。score()為評分標準不可更動，restore()需要同學依照自己的算法完成。
+
+需繳交檔案: 學號_姓名.zip
+
+學號_姓名.zip內容: 學號_姓名.pdf, compete.py, sound.py

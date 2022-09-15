@@ -1,0 +1,4 @@
+﻿  mmm.c
+c:\users\user\onedrive - 清華大學\大二上\必修-線性代數\hw1\project1\mmm.c(12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\user\onedrive - 清華大學\大二上\必修-線性代數\hw1\project1\mmm.c(13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Project1.vcxproj -> C:\Users\User\OneDrive - 清華大學\大二上\必修-線性代數\HW1\Project1\Debug\Project1.exe
